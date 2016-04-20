@@ -1,0 +1,21 @@
+{
+  "name": "robertruttenberg.com",
+  "homepage": "https://github.com/rchezrutt88/robertruttenberg.com",
+  "authors": [
+    "RobertRuttenberg <rdruttenberg@gmail.com>"
+  ],
+  "description": "My website",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3"
+  }
+}
